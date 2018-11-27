@@ -13,3 +13,6 @@ It got me thinking: it's difficult to verify that a stranger is the RIGHT strang
 "Shibboleth" is a word that refers to something from a culture that is a distinguishing feature of a group. It also has come to refer to a passphrase unique to that culture that identifies someone as a member of that group.
 
 This app connects strangers and gives them a secret phrases to identify themselves to one another.
+
+
+_This app was bootstrapped with [Create React App](https://facebook.github.io/create-react-app/)_
